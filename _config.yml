@@ -3,7 +3,7 @@ title: Sidblog
 email: koolspy.siddhu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Danthuluri Siddhartha is a software developer specialized in web development focused on writing flexible object-oriented code in Ruby and Rails.
-baseurl: "/sidtri" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sidtri.com" # the base hostname & protocol for your site
 twitter_username: sidtri4
 github_username:  sidtri
