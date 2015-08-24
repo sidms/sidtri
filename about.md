@@ -4,8 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm [Siddharth](https://github.com/sidongithub). I'm a programmer, cyclist and mildly obsessed with [game of thrones](http://www.hbo.com/game-of-thrones).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I work with small business owners and bloggers (like you!) to simplify owning a website. Whether that’s working together to turn your vision into a reality via a beautiful new design or sharing my knowledge on the blog to help you conquer your coding fears, I love helping people turn their dream site into a reality.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This blog is for my reference on quick go through's of what i face challenging during my development time.
+
+* Tutorials
+* Snippets
+* Screencasts (Coming soon..)
+* Courses (Coming soon..)
+
+[Hire me](mailto:koolspy.siddhu@gmail.com) for your next project
+
+* Ruby on Rails
+* HTML5 semantics, WAI-ARIA and Rich Snippets(microdata)
+* Linux Server Stacks
+* SEO Analytics
+* Asynchronous Content Loading
+* Automation Deployments and Testing (Capibara/Rspec)
+* Performance Optimization
+* Benchmarking
+* Sinatra
+
+PS :: If anyone would like to post or share content here, Let me know [here](mailto:koolspy.siddhu@gmail.com)
+
+*content i write here is not well formatted due to not enough time. Mostly i write what i encounter daily basis so that it may be useful to refer sometime later*
