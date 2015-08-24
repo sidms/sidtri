@@ -1,0 +1,56 @@
+---
+layout: post
+title: Why React.js
+---
+No code inside it. Be alert.! Mostly i'll explain about why  is important for us in my own way ofcourse.
+
+React.js is a javascript library that we can use to parse results and ap.... what are you saying ? 
+
+Oh! i forgot, we are lazy right ..! Let me deal with this.
+
+Instead of parsing at server side we can send objects( i mean json objects) to client side and we know it right. After we get some json objects  we need to parse results and append to dom and it is common procedure. But what if some data changes at client side ? we'll send signal to server -> Server gives objects -> We'll again parse. What if dependencies ? These are common problems and you'll think one day that do we need to do all these? This is where react comes.
+
+While learning react i'm pretty much amazed that how can i miss this, as react will takes care of everything for us. What you need to do is teach react how to make recipe(parse) and that's it. React will cook each time you bought vegitables.(data)
+
+Before come to react i would like to learn Angular.js which is an excellent community and lot of support is there and i come up with Ember.js, Knockout.js, Backbone, React and i stuck up with which one i choose. If you are in this situation then be with me.
+
+I wanted to say that we can easily go and out of control while coding with javascript to do some client side stuff. So these libraries can give us ability to control client side like rails at server side.
+
+
+I'm pretty much bored writing all these, let me come to point.
+
+React maintained by facebook guys only takes care of `V` in `MVC` and that's the one of the reason why react is much popular.
+
+* Unlike angular React has unique approach parsing results from server side to DOM. 
+
+* React is lighter than needle.
+
+* React... Oh! i would like to explain a lot here, but i know you had not much time to read all of these.
+
+
+Let me give you small taste here..
+
+<pre>
+<code class='language-ruby'>
+ # Load react.js first, Then you'll get React object, open console and type 
+
+ React.render(
+   React.DOM.div({id: "Render me react please"}, "Hello world!"),
+   document.body
+ )
+</code>
+</pre>
+
+
+Remember :: 
+ 
+ * React has state(which are what we called variables), methods.
+ * We can write our own methods using Javascript Object literals
+ * Render method is common for every React object
+ * You  give state, React takes care of everything
+
+
+I'll teach in good manner in coming episode and we'll learn react much decent. Until then stay tuned.
+
+
+Thanks .
