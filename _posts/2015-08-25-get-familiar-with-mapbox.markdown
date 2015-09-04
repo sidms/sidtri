@@ -54,14 +54,15 @@ As the name suggest we can create layer groups
    -> Style with [simple-style-spec](https://www.mapbox.com/guides/an-open-platform/#simplestyle)
 
 ### Add Marker
+
 <code>
-L.marker(
-<LatLng> latlng,
-<Marker options> options? )
+L.marker(<LatLng> latlng,<Marker options> options? )
 </code>
+
 Instantiates a Marker object given a geographical point and optionally an options object. We can add marker latlong and some optional options. 
 
-Check geojson.org for reference 
+Check geojson.org for reference.
+
 
 ### To load Multiple markers 
 
@@ -70,8 +71,8 @@ Check geojson.org for reference
   // geojson format should follow geojson.org
 </code>
 
-
 ### Icons in markers
+
 <code>
 var myIcon = L.icon({
 	iconUrl: 'my-icon.png',
@@ -79,15 +80,12 @@ var myIcon = L.icon({
     className: 'icon'
 });
 
-then, 
 L.marker(geocodes, {title: '', icon: myIcon}
-for single marker
-
+</code>
 
 ### Multiple markers
 Use Geojson
 Represents a GeoJSON layer. Allows you to parse GeoJSON data and display it on the map. Extends FeatureGroup.
-</code>
 
 ### Event handlers 
  Event   - Method
