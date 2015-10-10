@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm [Siddharth](https://github.com/sidongithub). I'm a programmer, cyclist and mildly obsessed with [game of thrones](http://www.hbo.com/game-of-thrones).
+Hi, I'm [Siddharth](https://github.com/sidtri). I'm a programmer, cyclist and mildly obsessed with [game of thrones](http://www.hbo.com/game-of-thrones).
 
 I work with small business owners and bloggers (like you!) to simplify owning a website. Whether that’s working together to turn your vision into a reality via a beautiful new design or sharing my knowledge on the blog to help you conquer your coding fears, I love helping people turn their dream site into a reality.
 
@@ -21,4 +21,4 @@ I work with small business owners and bloggers (like you!) to simplify owning a 
 * Benchmarking
 * Sinatra
 
-*Mostly i write what i came up with daily basis so that it may be useful to refer sometime later*
+*Mostly i write here what i came up with daily basis so that it may be useful to refer sometime later*
