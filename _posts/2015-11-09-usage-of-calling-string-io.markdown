@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Usage of calling StringIO
-date: 2015-06-12 13:34:01.000000000 +05:30
+date: 2015-11-09 13:34:01.000000000 +05:30
 ---
 
 Creating strings using class StringIO instead of String gives us string that behave like IO. Simply saying that the returned string have some extra methods called <code>gets</code>,<code>puts</code>,<code>read</code> etc.,
